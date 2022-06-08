@@ -1,3 +1,5 @@
+--criando tabelas no mysql
+
 CREATE TABLE category(
     id INT NOT NULL AUTO_INCREMENT,
     nome VARCHAR (100) NOT NULL,

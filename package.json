@@ -1,13 +1,13 @@
 {
   "name": "compass_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Desafio 2 - Compass",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Manuela, Nicolas e Tiago",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
