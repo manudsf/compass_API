@@ -1,0 +1,29 @@
+{
+  "name": "compass-api",
+  "version": "1.0.0",
+  "description": "Desafio 2 - Compass.UOL",
+  "main": "./scr/app.js",
+  "scripts": {
+    "start": "nodemon ./scr/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manudsf/compass_API.git"
+  },
+  "author": "Manuela, Nicolas e Tiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manudsf/compass_API.git"
+  },
+  "homepage": "https://github.com/manudsf/compass_API.git",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
