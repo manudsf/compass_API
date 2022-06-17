@@ -1,6 +1,6 @@
 const mysql = require('../config/connect.js')
 
-const categorySchema = new mysql.Schema(        // Arrumar o tipo de dados 
+const categorySchema = new mysql.Schema(         
     {
         id: {type: String},
         nome: {type: String, require: true}
